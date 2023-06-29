@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.CalendarView.Custom" parent="android:Widget.CalendarView">
+        <item name="colorAccent">@color/green</item>
+    </style>
+
+    <style name="EditTextThemeOverlay" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/green</item>
+    </style>
+
+    <style name="CustomCalendarDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Customize colors here -->
+        <item name="colorAccent">@color/green</item>
+        <!-- Add more customizations here -->
+    </style>
+</resources>
